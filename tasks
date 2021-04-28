@@ -31,6 +31,7 @@ A project elkészítése, pusolás
 2. .gitignore (build törlése
 
 3. build/index.html kinyitása ctrF /static ---> ./static átnevezés
+	pusholni!!
 
 4. Githubra menni, settings, pages
    branch/root/share 
